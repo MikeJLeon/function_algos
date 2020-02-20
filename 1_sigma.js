@@ -2,7 +2,8 @@
 // Predcted output: sigma(5) should return 15   (I.E: 1+2+3+4+5 =15)
 
 function sigma(num){
-    // YOUR CODE HERE
+
+
+    
 }
-var sum = sigma(5);
-console.log(sum);
+    
