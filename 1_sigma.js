@@ -3,11 +3,11 @@
 
 
 
-
+            //  5
 function sigma(num){
-   var counter = 0                    //1-
+   var counter = 0                    // counter = 0 - 1 - 3 - 6 - 10 - 15!!!
 for(var i = 1; i <= num; i++ ){
-    counter = counter + i;}
+    counter = counter + i;}           // i = 1 - 2 - 3 - 4 - 5 - 6 -break
 
 return counter;
 
